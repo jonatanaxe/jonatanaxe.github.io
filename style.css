@@ -111,12 +111,12 @@ body {
             text-indent: -9999px;
         }
             .twitter {
-                background-image: url(../img/twitter.png);
+                background-image: url(../twitter.png);
                 width: 20px;
                 height: 17px;
             }
             .facebook {
-                background-image: url(../img/facebook.png);
+                background-image: url(../facebook.png);
                 width: 10px;
                 height: 19px;
             }
@@ -126,17 +126,17 @@ body {
                 height: 19px;
             }
             .dribbble {
-                background-image: url(../img/dribbble.png);
+                background-image: url(../dribbble.png);
                 width: 21px;
                 height: 19px;
             }
             .instagram {
-                background-image: url(../img/instagram.png);
+                background-image: url(../instagram.png);
                 width: 20px;
                 height: 19px;
             }
             .flickr {
-                background-image: url(../img/flickr.png);
+                background-image: url(../flickr.png);
                 width: 20px;
                 height: 9px;
             }
